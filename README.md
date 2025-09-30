@@ -42,7 +42,8 @@ _Halaman Hasil Diagnosa_
 ![image](https://github.com/user-attachments/assets/1b386727-8859-4801-8bff-a8de871e4114)
 
 _Halaman Riwayat Konsultasi_
-![image](https://github.com/user-attachments/assets/f1f1d432-509b-4b32-b53c-f549562b8d83)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2b4e1633-7351-4f51-a320-72f9063c5fe4" />
+
 
 ## Teknologi yang Digunakan
 
